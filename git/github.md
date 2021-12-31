@@ -20,20 +20,20 @@ Bạn có thể tìm kiếm từ khóa GitHub và chọn đường dẫn vào tr
 
 Dưới đây là giao diện trang chủ của Github. Chọn **Sign In** ở góc phải tạo tài khoản :
 
-![HomePage](git/image/homepage.PNG)
+![HomePage](image/homepage.PNG)
 
 Nhập thông tin cần thiết để tạo tài khoản.
 
-![CreateAccount](git/image/createaccount.PNG)
+![CreateAccount](image/createaccount.PNG)
 
 Để hoàn tất việc tạo tài khoản bạn cần chứng thực địa chỉ Email. Vào email dùng để đăng ký tài khoản. Nhận mã code và nhập vào giao diện bên dưới. 
 
-![ConfigEmail](git/image/configemail.PNG)
+![ConfigEmail](image/configemail.PNG)
 
 Sau đó, giao diện giúp cung cấp thêm 1 số trường về tài khoản.Bạn có thể bỏ qua bước này để đi đến đăng nhập bằng **Skip personalization** 
 
-![Config](git/image/config.PNG)
+![Config](image/config.PNG)
 
 Đến giao diện trang chủ như hình dưới là bạn đã tạo và đăng nhập thành công tài khoản GitHub.
 
-![Launch](git/image/launch.PNG)
+![Launch](image/launch.PNG)
