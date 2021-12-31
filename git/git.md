@@ -111,7 +111,7 @@ Tải Git qua đường dẫn bên dưới hoặc Gõ Git DownLoad trên thanh t
 
 > https://git-scm.com/downloads 
 
-![Launch](image/Setupstep1.PNG)
+![Launch](git\image\git-scm.PNG)
 
 Lựa chọn phiên bản phù hợp với hệ điều hành của bạn. Sau đó hệ thống sẽ tự động tải tập tin cài đặt phù hợp với bản hệ điều hành của bạn. 
 
@@ -119,9 +119,9 @@ Lựa chọn phiên bản phù hợp với hệ điều hành của bạn. Sau �
 
 Open tệp vừa tải về. Nếu như máy của bạn có sử dụng tường lửa hoặc phân quyền để chặn các truy cập không khả tín thì bạn sẽ gặp thông báo Cảnh báo bảo mật, mình cứ chọn **Run** cho nó thực hiện cài đặt. Dưới đây là cửa sổ __Điều khoản__ , chọn **Next** để tiếp tục.
 
-![PageD2](image/Setupstep1.PNG)
+![PageD2](git\image\Setupstep1.PNG)
 
-![PageD3](image/Setupstep2.PNG)
+![PageD3](git\image\Setupstep2.PNG)
 
 Các lựa chọn đã được chọn sẵn (tick): Bao gồm các trình cơ bản của Git là dòng lệnh, giao diện đồ họa, các gói hỗ trợ, khai báo loại tập tin,... là những mục cần thiết để cài đặt.
 <br>
@@ -133,28 +133,26 @@ Các lựa chọn đã được chọn sẵn (tick): Bao gồm các trình cơ b
 Bấm **Next** để tiếp tục cài đặt.
 <br>
 
-![PageD4](image/Setupstep3.PNG)
+![PageD4](git\image\Setupstep3.PNG)
 
 Trình cài đặt yêu cầu lựa chọn một chương trình soạn thảo để chúng ta có thể biên tập lệnh cho Git bash. Mặc đinh là dùng Vim. Nhấn **Next** để đưa đến cửa sổ tạo nhánh (branch) trong repositories mới. Chọn **Let Git decide** để Git tự tạo nhánh mặc định branch name là __master__ . 
 <br>
 
-![PageD5](image/Setupstep4.PNG)
+![PageD5](git\image\Setupstep4.PNG)
 
 Cửa sổ tiếp theo dùng để cài đặt một trường PATH cho Git. Sử dụng lựa chọn mặc định được khuyên dùng của Git và đến cửa sổ tiếp theo.
 
+![PageD6](git\image\Setupstep5.PNG)
 
-![PageD6](image/Setupstep5.PNG)
-
-
-![PageD7](image/Setupstep6.PNG)
+![PageD7](git\image\Setupstep6.PNG)
 
 SSH, hoặc được gọi là Secure Shell, là một giao thức điều khiển từ xa cho phép người dùng kiểm soát và chỉnh sửa server từ xa qua Internet.Trình cài đặt giúp bạn cài đặt thêm SSH và hỏi bạn có muốn cài đặt hay không!
 
-![PageD8](image/Setupstep7.PNG)
+![PageD8](git\image\Setupstep7.PNG)
 
 Nên chọn phương tiện truyền tải HTTPS mặc định được trình cài đặt chọn sẽ sử dụng tệp ca-bundle.crt để xác nhận chứng chỉ máy chủ.
 
-![PageD9](image/Setupstep8.PNG)
+![PageD9](git\image\Setupstep8.PNG)
 
 Các cửa sổ tiếp theo, bạn có thể dựa vào lựa chọn mặc định của trình cài đặt để tiến hành : 
 **Configuring the line ending conversions** : Định cấu hình chuyển đổi kết thúc dòng 
@@ -164,11 +162,11 @@ Các cửa sổ tiếp theo, bạn có thể dựa vào lựa chọn mặc đị
 **Configuring extra options** : Định cấu hình bổ sung. 
 **Configruring experimental options** : Định cấu hình các tùy chọn thử nghiệm (bạn có thể bỏ qua không chọn thử nghệm).
 
-![PageD15](image/Setupstep9.PNG)
+![PageD15](git\image\Setupstep9.PNG)
 
 Sẽ mất vài giây để trình cài đặt hoàn tất. 
 
-![PageD16](image/Setupstep10.PNG)
+![PageD16](git\image\Setupstep10.PNG)
 
 Launch Git Bash để mở giao diện Git Bash và View Release Notes mở trang web ghi chú bản Git phát hành sau khi nhấn nút **Finish**
 
@@ -176,7 +174,7 @@ Launch Git Bash để mở giao diện Git Bash và View Release Notes mở tran
 
 Mở Git Bash và gõ <mark> git verson </mark> thực hiện và ra kết quả như hình bên dưới
 
-![PageD17](image/Setupstep11.PNG)
+![PageD17](git\image\Setupstep11.PNG)
 
 Trong đó: 
 - AORUS là tên người dùng (tài khoản máy tính Window) 
