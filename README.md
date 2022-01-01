@@ -16,7 +16,7 @@ function Greeting() {
 }
 ```
 
-### :dancers: Thảo luận
+## Các vấn đề thảo luận
 
 :seedling: Truyền cảm hứng, người hướng dẫn.
 
@@ -26,7 +26,7 @@ function Greeting() {
 
 :convenience_store: Fun fact kinh nghiệm đi làm.
 
-### :briefcase: Tech stack
+## Tech stack
 
 <div align="center">
   
