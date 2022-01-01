@@ -61,7 +61,7 @@ function Greeting() {
 <img src="./img/logos/kubernets.svg" height="60" width="60">
 </div>
 
-### :gem: Contributor
+### :gem: Contributors
 
 <p>
  <a href="https://github.com/MYuitsu"><img src="https://avatars.githubusercontent.com/u/25175696" alt ="MYuitsu" title="Nguyen Thai Duy" with="75" height="75" /></a>
