@@ -2,34 +2,45 @@
 
 <h1>< <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tien Giang University Brotherhood <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> /> </h1>
 
-```TypeScript
-function Greeting() {
-  const name = "Hội anh em sinh viên Trường Đại học Tiền Giang"
-  const destiny = "Nơi chia sẻ kinh nghiệm, kiến thức cho sinh viên TGU"
-  const specialize: Record<string, string> = {
-    "hardware": "Phần cứng",
-    "software": "Phần mềm",
-    "life_experience": "Các vấn đề đời sống"
+```Go
+func Greeting() *Intro {
+  return &Intro{
+    "👯‍♂️ Hội anh em sinh viên Trường Đại học Tiền Giang 👯‍♀️",
+    "Nơi chia sẻ kinh nghiệm, kiến thức cho sinh viên TGU"
   }
-  const intro = new Intro(name, destiny, specialize);
-  console.log(intro);
 }
 ```
 
-## Các vấn đề thảo luận
+## Chủ đề
 
 :seedling: Truyền cảm hứng, người hướng dẫn.
 
-:keyboard: Cơ bản về lập trình, phát triển phần mềm và phát triển game.
+:thought_balloon: Những việc nên làm trước khi tốt nghiệp.
 
-:grinning: Kinh nghiệm làm sinh viên.
+:runner: Fun fact những vấn đề khi làm sinh viên (kinh nghiệm qua môn, tăng hiệu suất làm bài,...).
+
+:heart_on_fire: Cách tự học, và những nguồn học miễn phí.
+
+:100: Kinh nghiệm khi đi phỏng vấn.
+
+:dizzy: Kinh nghiệm làm việc với dự án thực tế.
 
 :convenience_store: Fun fact kinh nghiệm đi làm.
+
+:keyboard: Cơ bản về lập trình, phát triển phần mềm và phát triển game.
+
 
 ## Tech stack
 
 <div align="center">
-  
+
+<img src="./img/logos/git.png" height="60" width="60">
+<img src="./img/logos/github.svg" height="60" width="60">
+<img src="./img/logos/docker.svg" height="60" width="60">
+<img src="./img/logos/kubernets.svg" height="60" width="60">
+
+<br>
+
 <img src="./img/logos/c-shape.svg" height="60" width="60">
 <img src="./img/logos/c++.png" height="60" width="60">
 <img src="./img/logos/java.svg" height="60" width="60">
@@ -53,12 +64,6 @@ function Greeting() {
 <img src="./img/logos/sql.png" height="60" width="60">
 <img src="./img/logos/postgres.png" height="60" width="60">
 
-<br>
-
-<img src="./img/logos/git.png" height="60" width="60">
-<img src="./img/logos/github.svg" height="60" width="60">
-<img src="./img/logos/docker.svg" height="60" width="60">
-<img src="./img/logos/kubernets.svg" height="60" width="60">
 </div>
 
 ### :gem: Contributors
