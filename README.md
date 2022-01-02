@@ -68,7 +68,7 @@ func Greeting() *Intro {
 
 ### :gem: Contributors
 
-<p>
+<p align='center'>
  <a href="https://github.com/MYuitsu"><img src="https://avatars.githubusercontent.com/u/25175696" alt ="MYuitsu" title="Nguyen Thai Duy" with="75" height="75" /></a>
  <a href="https://github.com/witcher-vae"><img src="https://avatars.githubusercontent.com/u/44874068" alt ="witcher-vae" title="Dang Huu Loc" with="75" height="75" /></a>
  <a href="https://github.com/NTAnh-Thu"><img src="https://avatars.githubusercontent.com/u/94220054" alt ="QuachH_Thu" title="Quach Hong Thu" with="75" height="75" /></a>
