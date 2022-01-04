@@ -5,7 +5,7 @@
 ```Go
 func Greeting() *Intro {
   return &Intro{
-    "👯‍♂️ Hội anh em sinh viên Trường Đại học Tiền Giang 👯‍♀️",
+    "Hội anh em sinh viên Trường Đại học Tiền Giang",
     "Nơi chia sẻ kinh nghiệm, kiến thức cho sinh viên TGU"
   }
 }
