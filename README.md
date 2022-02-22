@@ -1,11 +1,11 @@
 ![](./img/header_.png)
 
-<h1>< <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Tien Giang University Brotherhood <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> /> </h1>
+<h1>< <img src="./img/Hi.gif" width="30px"> Tien Giang University Brotherhood <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> /> </h1>
 
 ```Go
 func Greeting() *Intro {
   return &Intro{
-    "👯‍♂️ Hội anh em sinh viên Trường Đại học Tiền Giang 👯‍♀️",
+    "Hội anh em sinh viên Trường Đại học Tiền Giang",
     "Nơi chia sẻ kinh nghiệm, kiến thức cho sinh viên TGU"
   }
 }
@@ -70,11 +70,12 @@ func Greeting() *Intro {
 
 <p align='center'>
  <a href="https://github.com/MYuitsu"><img src="https://avatars.githubusercontent.com/u/25175696" alt ="MYuitsu" title="Nguyen Thai Duy" with="75" height="75" /></a>
- <a href="https://github.com/witcher-vae"><img src="https://avatars.githubusercontent.com/u/44874068" alt ="witcher-vae" title="Dang Huu Loc" with="75" height="75" /></a>
+ <a href="https://github.com/virsavik"><img src="https://avatars.githubusercontent.com/u/44874068" alt ="virsavik" title="Dang Huu Loc" with="75" height="75" /></a>
  <a href="https://github.com/NTAnh-Thu"><img src="https://avatars.githubusercontent.com/u/94220054" alt ="QuachH_Thu" title="Quach Hong Thu" with="75" height="75" /></a>
  <a href="https://github.com/GitYudDuy"><img src="https://avatars.githubusercontent.com/u/91514712?v=4" alt ="GitYudDuy" title="Tuan Duy" with="75" height="75" /></a>
 </p>
 
 <h3 align='center'>Thanks for watching</h3>
 <p align='center'>
-<img height='500' width='500' align='center' src="https://raw.githubusercontent.com/aniketsingh98571/Web_Development/master/programming.gif"></p>
+  <img alt="Coder GIF" height=350 width=500 src="./img/footer.gif" />
+</p>
